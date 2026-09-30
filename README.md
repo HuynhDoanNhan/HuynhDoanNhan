@@ -25,9 +25,16 @@
   />
 </p>
 
-<p align="center">
-  <img src="./assets/chibi.webp" width="180" alt="Chibi Character" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <img src="./assets/chibi.webp" width="140" alt="Chibi cu ben trai" />
+    </td>
+    <td align="center" width="220">
+      <img src="./assets/chibi1.webp" width="140" alt="Chibi moi ben phai" />
+    </td>
+  </tr>
+</table>
 
 ---
 
