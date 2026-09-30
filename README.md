@@ -26,6 +26,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="./assets/chibi.webp" width="180" alt="Chibi Character" />
+</p>
 
 <!-- ===================== ABOUT ===================== -->
 
