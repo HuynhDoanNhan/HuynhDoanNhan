@@ -1,9 +1,16 @@
-<!-- =========================
-     HERO SECTION
-========================= -->
+<!-- ===================== BANNER ===================== -->
 
-<!-- Đại Ka thay GIF / banner / video thumbnail ở đây sau -->
-<img src="./assets/banner.gif" alt="Huynh Doan Nhan Banner" width="100%" />
+<div align="center">
+  <img
+    src="./assets/banner.gif"
+    width="100%"
+    alt="Huynh Doan Nhan - Java Backend Developer Banner"
+  />
+</div>
+
+<br/>
+
+<!-- ===================== INTRO ===================== -->
 
 <h1 align="center">Hey 👋, I'm Huỳnh Đoàn Nhân</h1>
 
@@ -12,173 +19,200 @@
 </h3>
 
 <p align="center">
-  Java • Backend Development • Web Development • Database • Software Design
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=760&lines=Java+Backend+Development;Building+Web+%26+Desktop+Applications;Learning+Spring+Boot+%26+REST+APIs;Database+Systems+%7C+OOP+%7C+Software+Architecture"
+    alt="Typing Animation"
+  />
 </p>
 
-<hr/>
+---
 
-<!-- =========================
-     ABOUT ME
-========================= -->
+<!-- ===================== ABOUT ===================== -->
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineering student** who enjoys building practical software projects and turning ideas into real applications.
+I'm a **Software Engineering student** focused on developing my skills in **Java Backend Development**.
 
-My main focus is **Java Backend Development**, while also working with **web technologies**, **databases**, and **software engineering fundamentals**.
+I enjoy building practical **Java web and desktop applications**, working with both **relational and NoSQL databases**, and applying **object-oriented design and software engineering principles** to real projects.
 
-I’m especially interested in:
-- Building **Java web and desktop applications**
-- Designing clean and usable **user interfaces**
-- Working with **databases and APIs**
-- Improving my skills in **backend architecture** and **modern web development**
+Currently, I'm deepening my knowledge of **Spring Boot, REST APIs, backend architecture, and software design**.
 
-### 🌱 Currently Learning
-- Java Backend Development
-- Spring Boot
-- REST APIs
-- Software Design & Architecture
+### 🎯 Current Focus
 
-### 💬 Ask Me About
-- Java
-- Servlet / JSP
-- Java Swing
-- SQL / Database Design
-- Git & GitHub
+- ☕ Java Backend Development
+- 🌱 Spring Boot & REST APIs
+- 🗄️ Database Design
+- 🧩 Object-Oriented Design & Software Architecture
 
-### ⚡ Fun Fact
-I enjoy turning simple ideas into real software projects and continuously improving them step by step.
+---
 
-<hr/>
-
-<!-- =========================
-     CERTIFICATION / EDUCATION
-========================= -->
+<!-- ===================== EDUCATION ===================== -->
 
 ## 🎓 Education
 
 **Industrial University of Ho Chi Minh City (IUH)**  
 Software Engineering Student
 
-### 📌 Current Direction
-- Aspiring **Java Backend Developer**
-- Interested in **Web Development**, **Database Systems**, and **Software Engineering**
+**Career Direction:** Java Backend Development
 
-<hr/>
+---
 
-<!-- =========================
-     TECH STACK
-========================= -->
+<!-- ===================== TECHNOLOGIES ===================== -->
 
-## ⚙️ Tech Stack & Tools
+## ⚡ Technologies & Tools
 
-### 🧠 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+### 🧠 Languages & Web Fundamentals
+
+<table align="center">
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="52" height="52" alt="Java"/><br/>
+<sub><b>Java</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="52" height="52" alt="JavaScript"/><br/>
+<sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="52" height="52" alt="HTML5"/><br/>
+<sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="52" height="52" alt="CSS3"/><br/>
+<sub><b>CSS3</b></sub>
+</td>
+</tr>
+</table>
+
+### ☕ Java & Backend Ecosystem
+
+<table align="center">
+<tr>
+<td align="center" width="130">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="52" height="52" alt="Apache Maven"/><br/>
+<sub><b>Apache Maven</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" width="52" height="52" alt="Apache Tomcat"/><br/>
+<sub><b>Apache Tomcat</b></sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Servlet%20%2F%20JSP-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Servlet JSP"/>&nbsp;
+<img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Swing"/>
 </p>
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-</p>
+### 🌐 Frontend & Design
 
-### ☕ Java / Backend
-<p>
-  <img src="https://img.shields.io/badge/Servlet%2FJSP-4B8BBE?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%20Swing-2C2255?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="52" height="52" alt="React"/><br/>
+<sub><b>React</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="52" height="52" alt="Figma"/><br/>
+<sub><b>Figma</b></sub>
+</td>
+</tr>
+</table>
 
 ### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+
+<table align="center">
+<tr>
+<td align="center" width="125">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="56" height="56" alt="MySQL"/><br/>
+<sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="145">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="56" height="56" alt="Microsoft SQL Server"/><br/>
+<sub><b>SQL Server</b></sub>
+</td>
+<td align="center" width="125">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="56" height="56" alt="MariaDB"/><br/>
+<sub><b>MariaDB</b></sub>
+</td>
+<td align="center" width="125">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="56" height="56" alt="MongoDB"/><br/>
+<sub><b>MongoDB</b></sub>
+</td>
+</tr>
+</table>
+
+### 🛠️ Development Tools
+
+<table align="center">
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="52" alt="Git"/><br/>
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="52" height="52" alt="GitHub"/><br/>
+<sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="52" height="52" alt="Docker"/><br/>
+<sub><b>Docker</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="52" height="52" alt="Postman"/><br/>
+<sub><b>Postman</b></sub>
+</td>
+</tr>
+</table>
+
+### 🌱 Currently Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs"/>
 </p>
 
-### 🛠️ Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white" />
-</p>
 
-<hr/>
-
-<!-- =========================
-     CONNECT
-========================= -->
+<!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hu%E1%BB%B3nh-%C4%91o%C3%A0n-nh%C3%A2n-607028440/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=huynhdoannhan2k5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/hu%E1%BB%B3nh-%C4%91o%C3%A0n-nh%C3%A2n-607028440/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=huynhdoannhan2k5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-<!-- =========================
-     FEATURED PROJECTS
-========================= -->
+---
 
-## 🚀 Featured Projects
+<!-- Featured Projects will be added here when ready. -->
 
+<!-- ===================== GITHUB ACTIVITY ===================== -->
 
-
-<hr/>
-
-<!-- =========================
-     GITHUB STATS
-========================= -->
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=HuynhDoanNhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+  <img
+    width="48%"
+    src="https://github-readme-stats.shion.dev/api?username=HuynhDoanNhan&theme=tokyonight&hide_border=false"
+    alt="Huynh Doan Nhan GitHub Stats"
+  />
+  &nbsp;
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com/?user=HuynhDoanNhan&theme=tokyonight&hide_border=false"
+    alt="Huynh Doan Nhan GitHub Streak"
+  />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HuynhDoanNhan&theme=tokyonight&hide_border=false" />
-</p>
+<!--
+Most Used Languages will be added when there is enough public repository data.
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HuynhDoanNhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-<hr/>
-
-<!-- =========================
-     OPTIONAL CONTRIBUTION SECTION
-========================= -->
-
-## 🧩 Contribution Activity
-
-<!-- Đại Ka thêm snake / pacman contribution sau nếu muốn -->
-<!-- Example:
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+Contribution animation (Pac-Man or Snake) will also be added later.
+Only one contribution animation should be used to keep the profile clean.
 -->
 
-I’m continuously improving my coding skills by working on academic, personal, and practice projects.
-
-<hr/>
-
-<!-- =========================
-     FOOTER
-========================= -->
+---
 
 <p align="center">
-  Thanks for visiting my profile! 🚀
+  <sub>Thanks for visiting my profile 👋</sub>
 </p>
