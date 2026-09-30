@@ -3,9 +3,7 @@
 ========================= -->
 
 <!-- Đại Ka thay GIF / banner / video thumbnail ở đây sau -->
-<p align="center">
-  <img src="YOUR_BANNER_OR_GIF_HERE" alt="banner" width="100%" />
-</p>
+<img src="./assets/banner.gif" alt="Huynh Doan Nhan Banner" width="100%" />
 
 <h1 align="center">Hey 👋, I'm Huỳnh Đoàn Nhân</h1>
 
