@@ -25,16 +25,13 @@
   />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <img src="./assets/chibi.webp" width="140" alt="Chibi cu ben trai" />
-    </td>
-    <td align="center" width="220">
-      <img src="./assets/chibi1.webp" width="140" alt="Chibi moi ben phai" />
-    </td>
-  </tr>
-</table>
+<!-- ===================== CHIBI MASCOTS ===================== -->
+
+<p align="center">
+  <img src="./assets/chibi.webp" width="145" alt="Fang Yuan White Hair Chibi" />
+  <img src="./assets/spacer.png" width="220" height="1" alt="" />
+  <img src="./assets/chibi1.webp" width="115" alt="Fang Yuan Black Hair Chibi" />
+</p>
 
 ---
 
