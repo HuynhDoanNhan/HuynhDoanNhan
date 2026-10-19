@@ -1,0 +1,121 @@
+<svg
+  width="820"
+  height="70"
+  viewBox="0 0 820 70"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7DCFFF"/>
+      <stop offset="55%" stop-color="#7AA2F7"/>
+      <stop offset="100%" stop-color="#BB9AF7"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="1.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g
+    text-anchor="middle"
+    font-family="Fira Code, JetBrains Mono, Consolas, monospace"
+    font-size="22"
+    font-weight="600"
+    fill="url(#accent)"
+    filter="url(#softGlow)"
+  >
+
+    <!-- Java Backend -->
+    <text x="410" y="40" opacity="0">
+      Java Backend Development
+
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0;0"
+        keyTimes="0;0.10;0.72;0.92;1"
+        dur="12s"
+        begin="0s"
+        repeatCount="indefinite"
+      />
+
+      <animate
+        attributeName="y"
+        values="46;36;36;32"
+        dur="12s"
+        begin="0s"
+        repeatCount="indefinite"
+      />
+    </text>
+
+    <!-- Web & Desktop -->
+    <text x="410" y="40" opacity="0">
+      Building Web &amp; Desktop Applications
+
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0;0"
+        keyTimes="0;0.10;0.72;0.92;1"
+        dur="12s"
+        begin="3s"
+        repeatCount="indefinite"
+      />
+
+      <animate
+        attributeName="y"
+        values="46;36;36;32"
+        dur="12s"
+        begin="3s"
+        repeatCount="indefinite"
+      />
+    </text>
+
+    <!-- Spring Boot -->
+    <text x="410" y="40" opacity="0">
+      Learning Spring Boot &amp; REST APIs
+
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0;0"
+        keyTimes="0;0.10;0.72;0.92;1"
+        dur="12s"
+        begin="6s"
+        repeatCount="indefinite"
+      />
+
+      <animate
+        attributeName="y"
+        values="46;36;36;32"
+        dur="12s"
+        begin="6s"
+        repeatCount="indefinite"
+      />
+    </text>
+
+    <!-- Foundations -->
+    <text x="410" y="40" opacity="0">
+      Database Systems • OOP • Software Design
+
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0;0"
+        keyTimes="0;0.10;0.72;0.92;1"
+        dur="12s"
+        begin="9s"
+        repeatCount="indefinite"
+      />
+
+      <animate
+        attributeName="y"
+        values="46;36;36;32"
+        dur="12s"
+        begin="9s"
+        repeatCount="indefinite"
+      />
+    </text>
+
+  </g>
+</svg>
