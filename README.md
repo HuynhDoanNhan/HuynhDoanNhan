@@ -22,7 +22,7 @@
   <img
     src="./assets/focus-animation.svg"
     width="760"
-    alt="Developer Focus Animation"
+    alt="Developer Focus"
   />
 </p>
 
