@@ -20,9 +20,8 @@
 
 <p align="center">
   <img
-    src="./assets/focus-animation.svg"
-    width="760"
-    alt="Developer Focus"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=7DCFFF&center=true&vCenter=true&width=900&lines=Java+Backend+%7C+Spring+Boot+%7C+REST+APIs+%7C+Database+Systems"
+    alt="Typing Animation"
   />
 </p>
 
